@@ -1,0 +1,77 @@
+{
+  "segments": [
+    {
+      "id": 0,
+      "label": "face",
+      "confidence": 0.93359375,
+      "bbox": [
+        92,
+        15,
+        126,
+        68
+      ],
+      "area": 1343,
+      "center": [
+        109,
+        41
+      ]
+    },
+    {
+      "id": 1,
+      "label": "face",
+      "confidence": 0.9306640625,
+      "bbox": [
+        243,
+        24,
+        279,
+        72
+      ],
+      "area": 1314,
+      "center": [
+        261,
+        48
+      ]
+    },
+    {
+      "id": 2,
+      "label": "face",
+      "confidence": 0.92626953125,
+      "bbox": [
+        16,
+        32,
+        54,
+        83
+      ],
+      "area": 1312,
+      "center": [
+        35,
+        57
+      ]
+    },
+    {
+      "id": 3,
+      "label": "face",
+      "confidence": 0.91455078125,
+      "bbox": [
+        168,
+        12,
+        205,
+        71
+      ],
+      "area": 1684,
+      "center": [
+        186,
+        41
+      ]
+    }
+  ],
+  "image_shape": [
+    168,
+    300
+  ],
+  "categories_searched": [
+    "face",
+    "body"
+  ],
+  "processing_time_seconds": 2.05
+}

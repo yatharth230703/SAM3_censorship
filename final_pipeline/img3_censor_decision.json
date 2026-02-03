@@ -1,0 +1,13 @@
+{
+  "segments_to_censor": [
+    3
+  ],
+  "reasoning": "The woman in the center-right of the image, holding the gavel, has the longest hair among the four women shown. Her face is identified as segment [3].",
+  "segment_details": [
+    {
+      "id": 3,
+      "label": "face",
+      "reason": "This is the face of the woman with the longest hair."
+    }
+  ]
+}
