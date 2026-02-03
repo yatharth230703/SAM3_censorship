@@ -1,0 +1,78 @@
+{
+  "segments": [
+    {
+      "id": 0,
+      "label": "person",
+      "confidence": 0.97705078125,
+      "bbox": [
+        372,
+        213,
+        549,
+        611
+      ],
+      "area": 24459,
+      "center": [
+        460,
+        412
+      ]
+    },
+    {
+      "id": 1,
+      "label": "license plate",
+      "confidence": 0.9453125,
+      "bbox": [
+        837,
+        509,
+        964,
+        544
+      ],
+      "area": 3726,
+      "center": [
+        900,
+        526
+      ]
+    },
+    {
+      "id": 2,
+      "label": "license plate",
+      "confidence": 0.89697265625,
+      "bbox": [
+        425,
+        457,
+        479,
+        486
+      ],
+      "area": 1369,
+      "center": [
+        452,
+        471
+      ]
+    },
+    {
+      "id": 3,
+      "label": "face",
+      "confidence": 0.8427734375,
+      "bbox": [
+        606,
+        211,
+        645,
+        252
+      ],
+      "area": 1227,
+      "center": [
+        625,
+        231
+      ]
+    }
+  ],
+  "image_shape": [
+    720,
+    1278
+  ],
+  "categories_searched": [
+    "person",
+    "face",
+    "license plate"
+  ],
+  "processing_time_seconds": 2.22
+}

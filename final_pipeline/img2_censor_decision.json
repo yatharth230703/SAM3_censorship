@@ -1,0 +1,31 @@
+{
+  "segments_to_censor": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "reasoning": "All detected segments match the censorship requirements for privacy, which include blurring all people, faces, and license plates.",
+  "segment_details": [
+    {
+      "id": 0,
+      "label": "person",
+      "reason": "This is a person on a motorcycle, matching the requirement to blur all people."
+    },
+    {
+      "id": 1,
+      "label": "license plate",
+      "reason": "This is a vehicle license plate, matching the requirement to blur all license plates."
+    },
+    {
+      "id": 2,
+      "label": "license plate",
+      "reason": "This is a motorcycle license plate, matching the requirement to blur all license plates."
+    },
+    {
+      "id": 3,
+      "label": "face",
+      "reason": "This is a person's face, matching the requirement to blur all faces."
+    }
+  ]
+}
